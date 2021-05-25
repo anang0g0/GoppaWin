@@ -178,7 +178,7 @@ void rp2(unsigned char *a)
     a[NN - 2] = NN - 1;
   }
 }
-
+/*
 int print_uint128(__uint128_t n) {
   if (n == 0)  return printf("0\n");
 
@@ -192,7 +192,7 @@ int print_uint128(__uint128_t n) {
   }
   return printf("%s", s);
 }
-
+*/
 //ハッシュ関数本体
 arrayul
 chash()
